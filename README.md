@@ -1,5 +1,7 @@
 # ur10e_moveit_sfm
 
+Script to create an arc trajectory of poses looking at a target point in space.
+
 Download and install moveit tutorials:
 
 ```
